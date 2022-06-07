@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uskhbs)](https://solved.ac/uskhbs/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uskhbs@naver.com)](https://github.com/uskhbs@naver.com/github-readme-stats)
+
