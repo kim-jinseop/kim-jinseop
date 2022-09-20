@@ -11,8 +11,7 @@ ___
 ##### :heart: Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)  
 ![STM](http://img.shields.io/badge/STM-03234B?style=flat?style=plastic&logo=STMicroelectronics&logoColor=white)  ![Arduino](http://img.shields.io/badge/Arduino-00979D?style=flat?style=plastic&logo=Arduino&logoColor=white) ![PIC](https://img.shields.io/badge/PIC-CC0000?style=flate&logo=&logoColor=white) ![BusMaster](https://img.shields.io/badge/Busmaster-00D1B2?style=flate&logo=&logoColor=white)  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=uskhbs)](https://solved.ac/uskhbs)
+
 
 
 ##### :bulb: _improving_  
