@@ -6,6 +6,8 @@
   
  **I'm an Electronics engineer, but I can be any engineer you want.**  
  **I'm constantly learning and growing my skills** :+1:
+ 
+ boostcamp ing (2022/09)
 ___
 
 ##### :heart: Tech Stack
