@@ -20,6 +20,9 @@ ___
 ![PyTorch](http://img.shields.io/badge/PyTorch-EE4C2C?style=flat?style=plastic&logo=PyTorch&logoColor=white) 
 
 ##### :link: Contacts 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kimjinseop5697@gmail.com)](mailto:kimjinseop5697@gmail.com) [![Blog Badge](http://img.shields.io/badge/-Blog-0A0B09?style=flat&logo=FF5722&link=https://k-tech.tistory.com/)](https://k-tech.tistory.com/)
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kimjinseop5697@gmail.com)]
+ (mailto:kimjinseop5697@gmail.com)  -->
+  
+[![Blog Badge](http://img.shields.io/badge/-Blog-0A0B09?style=flat&logo=FF5722&link=https://k-tech.tistory.com/)](https://k-tech.tistory.com/)
 
 </div>
