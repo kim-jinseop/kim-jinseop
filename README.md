@@ -6,17 +6,12 @@
   
 <!-- **I'm an Electronics engineer,but I can be any engineer you want**    -->
  **I'm constantly learning and growing my skills** :+1:
- 
- boostcamp ing (2022/09)
+
 ___
 
 ##### :heart: Tech Stack   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)   
 ![STM](http://img.shields.io/badge/STM-03234B?style=flat?style=plastic&logo=STMicroelectronics&logoColor=white)  ![Arduino](http://img.shields.io/badge/Arduino-00979D?style=flat?style=plastic&logo=Arduino&logoColor=white) ![PIC](https://img.shields.io/badge/PIC-CC0000?style=flate&logo=&logoColor=white) ![BusMaster](https://img.shields.io/badge/Busmaster-00D1B2?style=flate&logo=&logoColor=white)  
-
-
-
-##### :bulb: _improving_  
 ![PyTorch](http://img.shields.io/badge/PyTorch-EE4C2C?style=flat?style=plastic&logo=PyTorch&logoColor=white) 
 
 ##### :link: Contacts 
